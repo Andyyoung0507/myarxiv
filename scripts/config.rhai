@@ -3,7 +3,7 @@ let titles_method = ["Grasp", "Manipulation", "Articulate", "Robo", "Affordance"
 let titles_platform = ["Robots", "Robot", "Gripper"];
 let titles_sensor = ["RGBD", "LiDAR", "Visual", "Vision", "Camera"];
 let titles = titles_method + titles_type + titles_sensor + titles_platform;
-let authors_array = ["Hao Su", "Hao Dong", "Cewu Lu", "Yao Mu", "Shuran Song", "Li Yi", "Huaze Xu", "Sergey Levine", "Chelsea Finn", "Lin Shao", "Agrawal Pulkit", "He Wang", "Guijin Wang", "Shengjin Wang"];
+let authors_array = ["Hao Su", "Hao Dong", "Cewu Lu", "Yao Mu", "Shuran Song", "Li Yi", "Huaze Xu", "Sergey Levine", "Chelsea Finn", "Lin Shao", "Agrawal Pulkit", "He Wang", "Haoshu Fang", "Guijin Wang", "Shengjin Wang"];
 
 let conferences = [
     // AI
